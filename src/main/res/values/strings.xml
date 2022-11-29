@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PROYECTO FINAL GESTOR</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_Telefono">Telefono:</string>
+    <string name="hint_correo">Correo:</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_limpiar">Limpiar</string>
+    <string name="menu_nuevo">Registros Nuevos</string>
+    <string name="hint_pedido">Pedido</string>
+    <string name="btn_camara">Camara</string>
+
+</resources>

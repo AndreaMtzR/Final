@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        app:showAsAction="always"
+        android:title="Item"
+        android:icon="@drawable/ic_menu">
+
+        <menu>
+            <item
+
+               android:id="@+id/home"
+                android:title="Principal"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_home"/>
+            <item
+                android:id="@+id/login"
+                android:title="Iniciar sesión"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_login"/>
+            <item
+                android:id="@+id/galeria"
+                android:title="Galeria"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_menu_gallery"/>
+            <item
+                android:id="@+id/locacion"
+                android:title="Locación"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_location"/>
+            <item
+                android:id="@+id/print"
+                android:title="Imprimir"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_print"/>
+            <item
+                android:id="@+id/codigo"
+                android:title="Codigos"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_code"/>
+            <item
+                android:id="@+id/ajustes"
+                android:title="Ajustes"
+                app:showAsAction="never"
+                android:icon="@drawable/ic_settings"/>
+
+
+
+        </menu>
+
+
+
+        </item>
+</menu>
